@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ClientBank",
+            "request": "launch",
+            "mainClass": "ClientBank",
+            "projectName": "problem2_49e916c3"
+        }
+    ]
+}

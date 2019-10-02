@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Restuarant",
+            "request": "launch",
+            "mainClass": "Restuarant",
+            "projectName": "week4assignment3_6242139f"
+        }
+    ]
+}
